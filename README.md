@@ -11,6 +11,7 @@ Este sistema de información tiene como objetivo gestionar eficientemente las op
   - [Gestión de Proveedores](#subsistema-de-gestión-de-proveedores)
   - [Informes y Análisis](#subsistema-de-informes-y-análisis)
 - [Requisitos del Sistema](#requisitos-del-sistema)
+- [Funcionamiento](#sentencias-sql-para-crear-la-base-de-datos)
 
 ---
 
@@ -77,3 +78,9 @@ Herramientas avanzadas para la toma de decisiones:
 - **Dependencias:** Librería `oracledb` para conectarse a la base de datos.
 - **Base de datos:** Cualquier base de datos SQL, con la que poder conectarse mediante la librería `oracledb`
 - **Configuración mínima:** Jupyter Notebook, entorno de python con librería `oracledb`
+
+## Sentencias SQL para crear la base de datos
+Además del código en python en `sistemaLicoreria.ipynb`, contamos con los siguientes archivos SQL:
+- **Tablas:** para crear las tablas del sistema de información.
+- **Disparadores:** para crear los distintos disparadores usados en este sistema de información.
+- **Secuencias:** usadas principalmente para formato en los códigos de venta, detalle de venta, ...
