@@ -99,4 +99,4 @@ Además del código en python en `sistemaLicoreria.ipynb`, contamos con los sigu
 ## Autor
 
 **Alejandro Coman Venceslá**  
-Estudiante de Ingeniería Informática, Universidad de Granada.  
+Estudiante de Ingeniería Informática y Administración y Dirección de Empresas, Universidad de Granada.  
