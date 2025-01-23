@@ -3,15 +3,26 @@
 Este sistema de información tiene como objetivo gestionar eficientemente las operaciones clave de una licorería. El sistema está diseñado para ser modular, componiéndose de cinco subsistemas principales, cada uno encargado de diferentes aspectos de la operación del negocio.
 
 ## Tabla de Contenidos
+
 - [Descripción General](#descripción-general)
+
 - [Subsistemas](#subsistemas)
+
   - [Gestión de Inventario](#subsistema-de-gestión-de-inventario)
+  
   - [Gestión de Ventas](#subsistema-de-gestión-de-ventas)
+  
   - [Gestión de Clientes](#subsistema-de-gestión-de-clientes)
+  
   - [Gestión de Proveedores](#subsistema-de-gestión-de-proveedores)
+    
   - [Informes y Análisis](#subsistema-de-informes-y-análisis)
+    
 - [Requisitos del Sistema](#requisitos-del-sistema)
-- [Funcionamiento](#sentencias-sql-para-crear-la-base-de-datos)
+  
+- [Sentencias SQL](#sentencias-sql-para-crear-la-base-de-datos)
+
+- [Autor](#autor)
 
 ---
 
@@ -84,3 +95,8 @@ Además del código en python en `sistemaLicoreria.ipynb`, contamos con los sigu
 - **Tablas:** para crear las tablas del sistema de información.
 - **Disparadores:** para crear los distintos disparadores usados en este sistema de información.
 - **Secuencias:** usadas principalmente para formato en los códigos de venta, detalle de venta, ...
+
+## Autor
+
+**Alejandro Coman Venceslá**  
+Estudiante de Ingeniería Informática, Universidad de Granada.  
